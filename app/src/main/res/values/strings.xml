@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiTouch</string>
+
+    <string name="multitouchgame"> Multi Touch</string>
+    <string name="playgame"> Play  !</string>
+
+    <string name="touchpoints"> Touch-Points:</string>
+    <string name="currentpressure"> Latest Pressure:</string>
+    <string name="currentposition"> Latest Position</string>
+
+    <string name="rubber"> Rubber!</string>
+</resources>
